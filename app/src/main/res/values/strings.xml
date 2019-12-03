@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UseofScrollView</string>
+    <string name="txt_title">Formulario de registro</string>
+
+    <string name="txt_desc">Esta es una prueba en la que verificaremos el uso del componente
+        ScrollView en android, este elemento nos permitira agregar una barra de scroll a nuestra
+        vista para que nos podamos desplazar en caso de que los demas componentes se oculten por
+        el tamaño de nuestro dispositivo
+    </string>
+
+    <string name="edittxt_document">Documento</string>
+    <string name="edittxt_name">Nombre</string>
+    <string name="edittxt_age">Edad</string>
+    <string name="edittxt_address">Dirección</string>
+    <string name="btn_register">Registrar</string>
+</resources>
